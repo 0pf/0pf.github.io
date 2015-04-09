@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About 0pf
 permalink: /about/
 ---
 
@@ -32,4 +32,4 @@ For over 50+ years we were blessed with Gordon Moore’s Law which states that t
 
 ### Contact Us
 
-[email@ddddomain.com](mailto:info@0pf.org)
+[info@0pf.org](mailto:info@0pf.org)
