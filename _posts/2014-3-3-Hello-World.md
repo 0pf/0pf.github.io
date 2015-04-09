@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Open Processor Foundation
 ---
 
-Done.  Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+The Open Processor Foundation (OPF) is a nonprofit organization dedicated to provide universal access to create, distribute, and modify microprocessor designs as well as associated software to expedite time to market at far lower costs. It is the intention for this forum to provide a core processor as well as associated logic, compilers, debuggers, and various operating systems. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+The entire solution will be available license free, and meant to be embedded in your innovative products.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
