@@ -12,4 +12,4 @@ The Open Processor Foundation (OPF) is a nonprofit organization dedicated to pro
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@ddddomain.com](mailto:info@0pf.org)
