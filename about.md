@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The Open Processor Foundation (OPF) is a nonprofit organization dedicated to provide universal access to create, distribute, and modify microprocessor designs as well as associated software to expedite time to market at far lower costs.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+The Open Processor Foundation (OPF) is a nonprofit organization dedicated to provide universal access to create, distribute, and modify microprocessor designs as well as associated software to expedite time to market at far lower costs. It is the intention for this forum to provide a core processor as well as associated logic, compilers, debuggers, and various operating systems. The entire solution will be available license free, and meant to be embedded in your innovative products.
 
 ### Contact me
 
