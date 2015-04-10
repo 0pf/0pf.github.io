@@ -2,13 +2,16 @@
 layout: page
 title: About 0pf
 permalink: /about/
+published: true
 ---
 
 A Public Benefit Nonprofit Organization: Open Processor Foundation (OPF) is a public benefit nonprofit organization dedicated to promote the universal freedom to create, distribute, and modify microprocessor design. The first open source CPU core this forum is providing is called the “J1 core” together with associated logic. The planned release date is March, 2015. It will be easily and available for your use and to initiate your imagination. We hope you will join this forum and this exciting opportunity.
 
 ### Clean-Room Design
 
- J series processors leverages 20+ year old technologies and cutting edge design tools, process and methodologies. J series processors are  designed through clean-room design process to respect the original manufacturers’ copyrights, trade secret, and trademark. J series users can leverage software tools, OSes and applications accumulated over 20 years.
+ J series processors leverages 20+ year old technologies and cutting edge design tools, process and methodologies. J series processors are  designed through
+
+clean-room design process to respect the original manufacturers’ copyrights, trade secret, and trademark. J series users can leverage software tools, OSes and applications accumulated over 20 years.
 
 ### Patents  
 
