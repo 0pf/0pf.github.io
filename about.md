@@ -9,9 +9,7 @@ A Public Benefit Nonprofit Organization: Open Processor Foundation (OPF) is a pu
 
 ### Clean-Room Design
 
- J series processors leverages 20+ year old technologies and cutting edge design tools, process and methodologies. J series processors are  designed through
-
-clean-room design process to respect the original manufacturers’ copyrights, trade secret, and trademark. J series users can leverage software tools, OSes and applications accumulated over 20 years.
+ J series processors leverages 20+ year old technologies and cutting edge design tools, process and methodologies. J series processors are  designed through clean-room design process to respect the original manufacturers’ copyrights, trade secret, and trademark. J series users can leverage software tools, OSes and applications accumulated over 20 years.
 
 ### Patents  
 
